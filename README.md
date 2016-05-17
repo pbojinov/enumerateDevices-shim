@@ -9,3 +9,7 @@ But I thought [`adapter.js`](https://github.com/webrtc/adapter/search?utf8=%E2%9
 Just install it from `npm` and require it in your app.
 
 	npm install enumerate-devices-shim --save
+
+## MediaDevices.enumerateDevices Support
+
+ As of `May 17, 2016`, Firefox 38+, Microsoft Edge, and Chrome 44+ support of [enumerateDevices](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/enumerateDevices).

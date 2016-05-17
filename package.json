@@ -1,6 +1,6 @@
 {
   "name": "enumerate-devices-shim",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Enable a consistent use of navigator.mediaDevices.enumerateDevices on browsers that support it.",
   "main": "src/index.js",
   "scripts": {
