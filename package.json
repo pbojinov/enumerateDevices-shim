@@ -1,0 +1,25 @@
+{
+  "name": "enumeratedevices-shim",
+  "version": "1.0.0",
+  "description": "Enable a consistent use of navigator.mediaDevices.enumerateDevices on browsers that support it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbojinov/enumerateDevices-shim.git"
+  },
+  "keywords": [
+    "mediaDevices",
+    "enumerateDevices",
+    "shim",
+    "polyfill"
+  ],
+  "author": "Petar Bojinov <petarbojinov@gmail.com> (https://github.com/pbojinov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbojinov/enumerateDevices-shim/issues"
+  },
+  "homepage": "https://github.com/pbojinov/enumerateDevices-shim"
+}
