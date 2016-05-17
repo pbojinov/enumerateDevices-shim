@@ -11,5 +11,5 @@
 
 // Expose public methods.
 module.exports = {
-  shimEnumerateDevices: require('./enumerateDevices'),
+  shimEnumerateDevices: require('./enumerateDevices')
 };

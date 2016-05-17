@@ -7,11 +7,9 @@
  */
 /* eslint-env node */
 'use strict';
-var logging = require('../utils.js').log;
 
 // Expose public methods.
 module.exports = function() {
-
   if (!navigator.mediaDevices && !navigator.mediaDevices.enumerateDevices) {
     navigator.mediaDevices = {};
     navigator.mediaDevices.enumerateDevices = function() {
